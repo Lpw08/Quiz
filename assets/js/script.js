@@ -36,7 +36,7 @@ function displayQuestion(){
         <ol>
             <li><button class="choices">${questionarray[0].choices[0]}</button></li>
             <li><button class="choices">${querySelector[0].choices[1]}</button></li>
-            <li><button class="choices">${}</button></li>
+            <li><button class="choices">${querySelector[0].choices[0]}</button></li>
             <li><button class="choices">Numbers</button></li>
         </ol>`
 }
