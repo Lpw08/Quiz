@@ -17,3 +17,4 @@ WHEN the game is over
 THEN I can save my initials and my score
 
 https://github.com/Lpw08/Quiz.git
+https://lpw08.github.io/Quiz/
